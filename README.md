@@ -5,6 +5,11 @@ This project uses FastAPI and Gemini LLM to answer natural language questions ab
 
 1. Open Command Promt
 2. Copy the path to thr folder and paste and click enter.
+
+```bash
+cd "PATH to the folder"
+```
+   
 3. Now you are in you project Folder.
 
 ## How to create virtual environment
