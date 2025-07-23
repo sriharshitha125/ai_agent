@@ -7,7 +7,7 @@ This project uses FastAPI and Gemini LLM to answer natural language questions ab
 2. Copy the path to thr folder and paste and click enter.
 
 ```bash
-cd "PATH to the folder"
+cd PATH to the folder
 ```
    
 3. Now you are in you project Folder.
