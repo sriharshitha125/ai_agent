@@ -39,7 +39,7 @@ python load_data.py
 
 <img width="904" height="132" alt="image" src="https://github.com/user-attachments/assets/fa1681d5-268d-4d57-bad6-660715c36fed" />
 
-
+There you can find ecommerce.db that is your DataBase.
 
 ## 🔧 Running the App
 
